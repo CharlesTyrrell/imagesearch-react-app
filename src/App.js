@@ -4,9 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>
-       {ExtraCard()}
-      </p>
+       {Card()}
     </div>
   );
 }
@@ -15,17 +13,10 @@ function App() {
 function Card(){
   return (
     <div className="card">
-      HELLP!
+      <img src="../res/locationtest.png" alt="location"/>
     </div>
   )
 }
 
-function ExtraCard(){
-  return (
-    <div className="card">
-      whats up!
-    </div>
-  )
-}
 
 export default App;

@@ -3,7 +3,7 @@ This app is meant to show basic understanding of front end and backend developme
 
 It is built using React and Google's Firebase
 
-# Features
+# Planned Features
 This app is an image search app, that allows users to search photos and notes using both text tags as well as by location.
 This app is generally meant to be related to travel
 - All tags are displayed as 'cards'
@@ -13,9 +13,11 @@ This app is generally meant to be related to travel
 - user has option of attaching notes to arbitrary selections of tags and locations
     - These will show up whenever user selects these tags / locations
 
+# Current Features
+
 # Images
 Basic design 
-<img src="./outline of app.png" alt="Alt text" title="Optional title">
+<img src="./outline of app.png" alt="diagramed outline of my app">
 
 # License
 No license is associated with this project
