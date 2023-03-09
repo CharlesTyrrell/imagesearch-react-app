@@ -6,46 +6,38 @@ function App()
 {
   return(
     <div className='app'>
-     <div className='media-scroller'>
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-     </div><div className='media-scroller'>
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-     </div><div className='media-scroller'>
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-     </div><div className='media-scroller'>
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
-      {Card()}
+      <div className='app-images'>
+        <div className='media-scroller'>
+          {Card()}
+          {Card()}
+          {Card()}
+          {Card()}
+          {Card()}
+        </div>
+     </div>
+      <div className='app-locations'>
+        <div className='media-scroller'>
+          {Card()}
+          {Card()}
+          {Card()}
+          {Card()}
+          {Card()}
+        </div>
+     </div>
+      <div className='app-tags'>
+        <div className='media-scroller'>
+          {Card()}
+          {Card()}
+          {Card()}
+          {Card()}
+        </div>
+     </div>
+      <div className='app-notes'>
+        <div className='media-scroller'>
+          {Card()}
+          {Card()}
+          {Card()}
+        </div>
      </div>
     </div>
   )
