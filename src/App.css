@@ -40,4 +40,8 @@
 .card{
   text-align: center;
   color: #61dafb;
+
+}
+.extra .card{
+  text-shadow: #282c34;
 }

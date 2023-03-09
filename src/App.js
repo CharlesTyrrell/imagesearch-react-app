@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <p>
-       {Card()}
+       {ExtraCard()}
       </p>
     </div>
   );
@@ -14,8 +14,16 @@ function App() {
 
 function Card(){
   return (
-    <div className="Card">
+    <div className="card">
       HELLP!
+    </div>
+  )
+}
+
+function ExtraCard(){
+  return (
+    <div className="card">
+      whats up!
     </div>
   )
 }
