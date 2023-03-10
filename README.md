@@ -12,12 +12,13 @@ This app is generally meant to be related to travel
 - clicking these will sort images by location
 - user has option of attaching notes to arbitrary selections of tags and locations
     - These will show up whenever user selects these tags / locations
+    
+# Upcoming Features
+Allowing user to partially update state on image click.
+
 
 # Current Features
 Use shift scroll to move horizontally
-
-# Upcoming Features
-Allowing user to partially update state on image click.
 
 
 # Current Images
