@@ -55,6 +55,9 @@
 .card:hover{
   background-color: dimgray;
 }
+.card img{
+  max-width: fit-content;
+}
 
 .App-header {
   background-color: #282c34;
