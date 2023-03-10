@@ -14,7 +14,7 @@ This app is generally meant to be related to travel
     - These will show up whenever user selects these tags / locations
 
 # Current Features
-
+Use shift scroll to move horizontally
 # Images
 Basic design 
 <img src="./outline of app.png" alt="diagramed outline of my app">
