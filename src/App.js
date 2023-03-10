@@ -34,7 +34,7 @@ function App()
      </div>
       <div className='app-notes'>
         <div className='media-scroller'>
-          {makeNotes(["Really need to go back to this place! Fun!"])}
+          {makeNotes(["USE SHIFT SCROLL TO MOVE HORIZONTALLY. Will use mouse in the future"])}
         </div>
      </div>
     </div>
