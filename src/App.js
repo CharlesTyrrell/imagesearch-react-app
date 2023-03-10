@@ -29,7 +29,7 @@ function App()
      </div>
       <div className='app-tags'>
         <div className='media-scroller'>
-          {makeTags(["Bodega", "cafe", "resteraunt", "lush", "green"])}
+          {makeTags(["Bodega", "cafe", "restaurant", "lush", "green"])}
         </div>
      </div>
       <div className='app-notes'>
