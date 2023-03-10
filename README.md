@@ -16,8 +16,11 @@ This app is generally meant to be related to travel
 # Current Features
 Use shift scroll to move horizontally
 
-# Current Images
+# Upcoming Features
+Allowing user to partially update state on image click.
 
+
+# Current Images
 
 <img src="./Example image of app 2023-03-09.png" alt="image of app 2023-03-09">
 
